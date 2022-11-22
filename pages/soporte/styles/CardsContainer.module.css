@@ -1,0 +1,22 @@
+.cardsContainer {
+    margin-top: 50px;
+    margin-bottom: -50px;
+    align-items: center;
+}
+
+.card {
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.315);
+    align-self: center;
+    margin-bottom: 1rem;
+
+}
+
+.card:hover {
+    cursor:pointer;
+    background-color: #9bd5f6;
+    color: white;
+}
+
+.cardText:hover {
+    color: white;
+}

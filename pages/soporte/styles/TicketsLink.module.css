@@ -1,0 +1,17 @@
+#ticket_link:hover{
+    cursor: pointer;
+    background-color: #9bd5f6;
+}
+
+.table {
+    position: relative;
+    margin-top: 50px;
+}
+
+.ticketName {
+    text-decoration: underline;
+}
+
+.ticketName:hover {
+    cursor: pointer;
+}

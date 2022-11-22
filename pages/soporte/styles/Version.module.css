@@ -1,0 +1,16 @@
+
+.ticketsContainer {
+	position: relative;
+	width: 90%;
+	/* padding: 1rem; */
+	font-size: 1.2rem;
+	margin: 2rem;
+}
+
+
+.horizontalContainer{
+	margin-bottom: 2rem;
+}
+.simpleContainer{
+	margin: 1rem;
+}

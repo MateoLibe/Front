@@ -1,0 +1,26 @@
+.searchTicket {
+	display: block;
+	margin: 20px;
+	width: 500px;
+}
+
+.searchProduct {
+	display: block;
+	margin: 20px;
+	width: 500px;
+}
+
+.searchContainer {
+	position: relative;
+	width: 90%;
+}
+
+.searchVersions {
+	display: block;
+	width: 500px;
+	width: 60%;
+}
+
+.filterTicket {
+	width: 60%;
+}
